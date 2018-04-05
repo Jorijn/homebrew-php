@@ -1,6 +1,5 @@
 {
   "composer": "homebrew/core",
-  "php-cs-fixer": "homebrew/core",
   "phpenv": "homebrew/boneyard",
   "phpsh": "homebrew/boneyard",
   "php72": "homebrew/core",
