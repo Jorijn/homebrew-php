@@ -5,6 +5,5 @@
   "php56": "homebrew/core",
   "php71": "homebrew/core",
   "php72": "homebrew/core",
-  "phpunit": "homebrew/core",
   "wp-cli": "homebrew/core"
 }
