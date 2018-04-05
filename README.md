@@ -1,3 +1,8 @@
+# NinjaEDIT™
+I broke a day on trying to fix PHP after upgrading Homebrew after the homebrew/php tap deprecation, turns out they didn't even include all packaged I used. This repository is a inbetween-solution until they do.
+
+--
+
 # Homebrew PHP
 
 A centralized repository for PHP-related brews.
